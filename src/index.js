@@ -20,7 +20,10 @@ class App extends React.Component {
 
   handleSubmit(event) {
     alert('Your favorite flavor is: ' + this.state.value);
+    MapChart.return(this.state.value)
+    //calling the mapchat function to draw out the map for the specific value
     event.preventDefault();
+    
   }
 
   render() {
