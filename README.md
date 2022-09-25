@@ -1,4 +1,4 @@
-# PepsiCo-Heatmap-Project
+# PepsiMap
 
 We used datasets given to us by PepsiCo to attempt to engage with consumers and influence them to buy PepsiCo products.
 Here are pictures of what we would scale this product to be a full sales and marketing tool for upper level officers at PepsiCo to use and help their company without seeing all the junky technical details.
